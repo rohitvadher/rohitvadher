@@ -1,4 +1,4 @@
-<h1 align="center">Rohit Vadher</h1>
+<h1 align="center">ʀᴏʜɪᴛ ᴠᴀᴅʜᴇʀ</h1>
 
 <p align="center">
   <strong>BCA Student · E-Commerce Support Executive</strong>
