@@ -1,57 +1,86 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">E-Commerce Executive | BCA Student</h3>
+<h1 align="center">Rohit Vadher</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=E-Commerce+Executive+at+Spectra+Overseas;BCA+Student;Learning+and+Growing+Every+Day" />
+  <strong>BCA Student · E-Commerce Support Executive</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitdevx-2007&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 👨‍💼 About Me
-
-- 💼 Working at **Spectra Overseas** as **E-Commerce Executive**
-- 🎓 Pursuing **BCA**
-
----
-
-## 💼 Work Experience
-
-### 🏢 Spectra Overseas  
-**E-Commerce Executive**  
-📍 March 2026 - Present
-
-- Managing online marketplace operations  
-- Product listings & optimization  
-- Order handling & daily operations  
-- E-commerce growth support  
-- Data & catalog management  
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,github,vscode" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
+  <a href="https://www.linkedin.com/in/rohitvadher/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:vadherrohit239@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+</p>
 
-  <a href="https://github.com/rohitdevx-2007">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
+---
 
-  <a href="https://instagram.com/rohit.devx">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+## About
+
+I am a **Bachelor of Computer Applications (BCA) student** with an interest in
+computer applications, information technology, and digital business operations.
+
+Alongside my studies, I work as an **E-Commerce Support Executive at Spectra Overseas**,
+where I contribute to day-to-day online store and marketplace operations.
+
+My focus is on gaining practical experience, understanding modern digital workflows,
+and continuously developing my professional knowledge across **IT and e-commerce**.
+
+---
+
+## Experience
+
+### Spectra Overseas
+
+**E-Commerce Support Executive**  
+`March 2026 – Present`
+
+Supporting day-to-day e-commerce operations, including:
+
+- Online marketplace operations
+- Product listings and catalog management
+- Product information updates
+- Order-related activities
+- E-commerce data management
+- Product optimization
+- Routine operational coordination
+
+---
+
+## Education
+
+### Bachelor of Computer Applications
+
+**Bhakta Kavi Narsinh Mehta University (BKNMU), Junagadh**
+
+`2024 – 2027`
+
+Currently pursuing a BCA with an academic focus on **Computer Applications and Information Technology**.
+
+---
+
+## Areas of Interest
+
+`E-Commerce` · `Computer Applications` · `Information Technology` · `Digital Business` · `Technology`
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rohitvadher/">
+  <img src="https://img.shields.io/badge/LinkedIn-rohitvadher-333333?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:vadherrohit239@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vadherrohit239%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <sub>Learning · Working · Growing</sub>
 </p>
